@@ -1,0 +1,7 @@
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\bin\Debug\netcoreapp1.1\PizzaOdering.deps.json
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\bin\Debug\netcoreapp1.1\PizzaOdering.dll
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\bin\Debug\netcoreapp1.1\PizzaOdering.pdb
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\obj\Debug\netcoreapp1.1\PizzaOdering.csprojResolveAssemblyReference.cache
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\obj\Debug\netcoreapp1.1\PizzaOdering.AssemblyInfo.cs
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\obj\Debug\netcoreapp1.1\PizzaOdering.dll
+D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOdering\obj\Debug\netcoreapp1.1\PizzaOdering.pdb
