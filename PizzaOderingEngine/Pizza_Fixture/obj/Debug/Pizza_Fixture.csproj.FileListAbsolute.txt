@@ -12,3 +12,17 @@ D:\Deependra\PizzaBooking\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.V
 D:\Deependra\PizzaBooking\PizzaOderingEngine\Pizza_Fixture\obj\Debug\Pizza_Fixture.csprojResolveAssemblyReference.cache
 D:\Deependra\PizzaBooking\PizzaOderingEngine\Pizza_Fixture\obj\Debug\Pizza_Fixture.dll
 D:\Deependra\PizzaBooking\PizzaOderingEngine\Pizza_Fixture\obj\Debug\Pizza_Fixture.pdb
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Pizza_Fixture.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Pizza_Fixture.pdb
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\PizzaOrdering.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\PizzaOrdering.pdb
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\obj\Debug\Pizza_Fixture.csprojResolveAssemblyReference.cache
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\obj\Debug\Pizza_Fixture.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\Pizza_Fixture\obj\Debug\Pizza_Fixture.pdb

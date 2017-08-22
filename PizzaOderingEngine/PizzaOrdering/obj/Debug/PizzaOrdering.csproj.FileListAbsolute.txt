@@ -3,3 +3,8 @@ D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOrdering\bin\Debug\PizzaOrderi
 D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOrdering\obj\Debug\PizzaOrdering.csprojResolveAssemblyReference.cache
 D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOrdering\obj\Debug\PizzaOrdering.dll
 D:\Deependra\PizzaBooking\PizzaOderingEngine\PizzaOrdering\obj\Debug\PizzaOrdering.pdb
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\PizzaOrdering\bin\Debug\PizzaOrdering.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\PizzaOrdering\bin\Debug\PizzaOrdering.pdb
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\PizzaOrdering\obj\Debug\PizzaOrdering.csprojResolveAssemblyReference.cache
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\PizzaOrdering\obj\Debug\PizzaOrdering.dll
+D:\Deependra\PizzaBooking\PizzaOrderingAssignment\PizzaOderingEngine\PizzaOrdering\obj\Debug\PizzaOrdering.pdb

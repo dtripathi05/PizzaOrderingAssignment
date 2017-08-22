@@ -39,7 +39,9 @@ namespace Pizza_Fixture
             Assert.AreEqual(3, order.CompleteOrder().Count);
             order.RemoveFromCart(pizza3);
             Assert.AreEqual(300, order.TotalBillAmount);
-            
+            Assert.AreEqual(true, order.CompleteOrder().Contains(pizza1));
+            Assert.AreEqual(true, order.CompleteOrder().Contains(pizza2));
+            Assert.AreEqual(false, order.CompleteOrder().Contains(pizza3));
         }
     }
 }
