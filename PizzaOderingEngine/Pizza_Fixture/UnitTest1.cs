@@ -21,7 +21,7 @@ namespace Pizza_Fixture
             Assert.AreEqual(4, menu.GetMenu().Count);
         }
         [TestMethod]
-        public void TO_Get_The_Ordered_Items()
+        public void TO_Get_The_List_Ordered_Items()
         {
             Pizza pizza1 = new Pizza() { Name = "CountrySpecial", Price = 150, Toppings = "Mushroom" };
             Pizza pizza2 = new Pizza() { Name = "farmHouse", Price = 150, Toppings = "Extra cheese" };
@@ -35,8 +35,11 @@ namespace Pizza_Fixture
             Order order = new Order();
             order.AddInCart(pizza1);
             order.AddInCart(pizza2);
-            Assert.AreEqual(2, order.CompleteOrder().Count);
-          
+            order.AddInCart(pizza3);
+            Assert.AreEqual(3, order.CompleteOrder().Count);
+            order.RemoveFromCart(pizza3);
+            Assert.AreEqual(300, order.TotalBillAmount);
+            
         }
     }
 }
